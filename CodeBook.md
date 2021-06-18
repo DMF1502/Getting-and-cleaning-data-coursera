@@ -14,23 +14,23 @@ This Script
 
 ## Labels
 The data set is labeled with descriptive variable names:
-  walking 
-  walkingupstairs 
-  walkingdownstairs 
-  sitting 
-  standing 
-  laying 
-  Accelerometer
-  Gyroscope
-  Body
-  Magnitude
-  Time
-  Frequency
-  TimeBody
-  Mean
-  StandardDeviation
-  Angle
-  Gravity
+  * walking 
+  * walkingupstairs 
+  * walkingdownstairs 
+  * sitting 
+  * standing 
+  * laying 
+  * Accelerometer
+  * Gyroscope
+  * Body
+  * Magnitude
+  * Time
+  * Frequency
+  * TimeBody
+  * Mean
+  * StandardDeviation
+  * Angle
+  * Gravity
 
 # Tidy Data Set
 The final data set has 180 rows x 88 columns and summarizes the data from the train set and the test set. It is exported in a text file.
